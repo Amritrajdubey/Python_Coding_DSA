@@ -16,11 +16,11 @@ https://leetcode.com/problem-list/xi4ci4ig/ <br>
 DSA Questins :
 
 I. Arrays – 20 Questions
-Reverse an array in-place<br>
-Find the maximum and minimum element in an array<br>
-Find the "Kth" max and min element in array<br>
-Sort 0s, 1s, and 2s in an array<br>
-Move all negative numbers to beginning and positive to end<br>
+- Reverse an array in-place<br>
+- Find the maximum and minimum element in an array<br>
+- Find the "Kth" max and min element in array<br>
+- Sort 0s, 1s, and 2s in an array<br>
+- Move all negative numbers to beginning and positive to end<br>
 Union and Intersection of two arrays<br>
 Cyclically rotate an array by one<br>
 Find the missing number in an array of 1 to n<br>

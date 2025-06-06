@@ -50,48 +50,48 @@ I. Arrays – 20 Questions
 - Check balanced parentheses<br>
 
 ✅ III. Searching – 10 Questions
-Linear search<br>
-Binary search (recursive + iterative)<br>
-Search in a rotated sorted array<br>
-First and last occurrence of an element<br>
-Count number of occurrences of an element<br>
-Find peak element<br>
-Binary search on answer (e.g., minimum pages allocation)<br>
-Find square root of a number using binary search<br>
-Find element in infinite sorted array<br>
-Aggressive cows (binary search on distance)<br>
+- Linear search<br>
+- Binary search (recursive + iterative)<br>
+- Search in a rotated sorted array<br>
+- First and last occurrence of an element<br>
+- Count number of occurrences of an element<br>
+- Find peak element<br>
+- Binary search on answer (e.g., minimum pages allocation)<br>
+- Find square root of a number using binary search<br>
+- Find element in infinite sorted array<br>
+- Aggressive cows (binary search on distance)<br>
 
 ✅ IV. Sorting – 10 Questions
-Bubble sort<br>
-Insertion sort<br>
-Selection sort<br>
-Merge sort<br>
-Quick sort<br>
-Count sort (non-comparison based)<br>
-Sort an array with 0s, 1s, 2s (Dutch National Flag)<br>
-Find minimum swaps to sort an array<br>
-Kth smallest/largest using sorting<br>
-Merge overlapping intervals<br>
+- Bubble sort<br>
+- Insertion sort<br>
+- Selection sort<br>
+- Merge sort<br>
+- Quick sort<br>
+- Count sort (non-comparison based)<br>
+- Sort an array with 0s, 1s, 2s (Dutch National Flag)<br>
+- Find minimum swaps to sort an array<br>
+- Kth smallest/largest using sorting<br>
+- Merge overlapping intervals<br>
 
 ✅ V. Hashing – 8 Questions
-Two sum problem<br>
-Longest subarray with zero sum<br>
-Count subarrays with given sum<br>
-Count pairs with given sum<br>
-Subarray with equal number of 0s and 1s<br>
-Longest consecutive subsequence<br>
-Find all elements that appear more than n/k times<br>
-Check if array contains duplicate within K distance<br>
+- Two sum problem<br>
+- Longest subarray with zero sum<br>
+- Count subarrays with given sum<br>
+- Count pairs with given sum<br>
+- Subarray with equal number of 0s and 1s<br>
+- Longest consecutive subsequence<br>
+- Find all elements that appear more than n/k times<br>
+- Check if array contains duplicate within K distance<br>
 
 ✅ VI. Stack – 8 Questions
-Implement stack using array<br>
-Implement stack using two queues<br>
-Next greater element<br>
-Valid parentheses (balanced brackets)<br>
-Min stack (get min in O(1))<br>
-Largest rectangle in histogram<br>
-Stock span problem<br>
-Celebrity problem<br>
+- Implement stack using array<br>
+- Implement stack using two queues<br>
+- Next greater element<br>
+- Valid parentheses (balanced brackets)<br>
+- Min stack (get min in O(1))<br>
+- Largest rectangle in histogram<br>
+- Stock span problem<br>
+- Celebrity problem<br>
 
 ✅ VII. Queue – 5 Questions
 Implement queue using array<br>
@@ -101,38 +101,38 @@ First non-repeating character in stream<br>
 Sliding window maximum<br>
 
 ✅ VIII. Linked List – 10 Questions
-Reverse a linked list (iterative + recursive)<br>
-Detect loop in linked list<br>
-Remove loop from linked list<br>
-Find middle of linked list<br>
-Check if linked list is palindrome<br>
-Merge two sorted linked lists<br>
-Detect intersection point in two lists<br>
-Remove Nth node from end<br>
-Add two numbers represented by linked lists<br>
-Clone a linked list with random pointers<br>
+- Reverse a linked list (iterative + recursive)<br>
+- Detect loop in linked list<br>
+- Remove loop from linked list<br>
+- Find middle of linked list<br>
+- Check if linked list is palindrome<br>
+- Merge two sorted linked lists<br>
+- Detect intersection point in two lists<br>
+- Remove Nth node from end<br>
+- Add two numbers represented by linked lists<br>
+- Clone a linked list with random pointers<br>
 
 ✅ IX. Recursion & Backtracking – 5 Questions
-Print all subsets of a string/array<br>
-Print all permutations of a string<br>
-N-Queens problem<br>
-Rat in a maze<br>
-Sudoku solver<br>
+- Print all subsets of a string/array<br>
+- Print all permutations of a string<br>
+- N-Queens problem<br>
+- Rat in a maze<br>
+- Sudoku solver<br>
 
 ✅ X. Binary Tree – 10 Questions
-Inorder, Preorder, Postorder traversal (recursive)<br>
-Inorder traversal (iterative using stack)<br>
-Level order traversal (BFS)<br>
-Height of a binary tree<br>
-Check if two trees are identical<br>
-Left view / Right view of binary tree<br>
-Lowest common ancestor (LCA)<br>
-Diameter of binary tree<br>
-Convert binary tree to mirror tree<br>
-Check if tree is balanced<br>
+- Inorder, Preorder, Postorder traversal (recursive)<br>
+- Inorder traversal (iterative using stack)<br>
+- Level order traversal (BFS)<br>
+- Height of a binary tree<br>
+- Check if two trees are identical<br>
+- Left view / Right view of binary tree<br>
+- Lowest common ancestor (LCA)<br>
+- Diameter of binary tree<br>
+- Convert binary tree to mirror tree<br>
+- Check if tree is balanced<br>
 
 ✅ XI. Binary Search Tree (BST) – 4 Questions
-Insert and delete in BST<br>
-Check if a tree is BST<br>
-Kth smallest/largest in BST<br>
-Inorder successor/predecessor in BST<br>
+- Insert and delete in BST<br>
+- Check if a tree is BST<br>
+- Kth smallest/largest in BST<br>
+- Inorder successor/predecessor in BST<br>

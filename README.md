@@ -94,11 +94,11 @@ I. Arrays – 20 Questions
 - Celebrity problem<br>
 
 ✅ VII. Queue – 5 Questions
-Implement queue using array<br>
-Implement circular queue<br>
-Implement queue using stacks<br>
-First non-repeating character in stream<br>
-Sliding window maximum<br>
+- Implement queue using array<br>
+- Implement circular queue<br>
+- Implement queue using stacks<br>
+- First non-repeating character in stream<br>
+- Sliding window maximum<br>
 
 ✅ VIII. Linked List – 10 Questions
 - Reverse a linked list (iterative + recursive)<br>

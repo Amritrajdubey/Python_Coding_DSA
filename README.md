@@ -21,33 +21,33 @@ I. Arrays – 20 Questions
 - Find the "Kth" max and min element in array<br>
 - Sort 0s, 1s, and 2s in an array<br>
 - Move all negative numbers to beginning and positive to end<br>
-Union and Intersection of two arrays<br>
-Cyclically rotate an array by one<br>
-Find the missing number in an array of 1 to n<br>
-Find duplicates in an array<br>
-Kadane’s Algorithm (Maximum Subarray Sum)<br>
-Left rotate array by D places<br>
-Rotate array by K using reversal algorithm<br>
-Leaders in an array<br>
-Minimum number of jumps to reach the end<br>
-Find the equilibrium point (prefix sum approach)<br>
-Merge two sorted arrays without extra space<br>
-Subarray with given sum (Sliding window)<br>
-Smallest subarray with sum greater than X<br>
-Count frequency of elements in an array<br>
-Rearrange array in alternating positive and negative numbers<br>
+- Union and Intersection of two arrays<br>
+- Cyclically rotate an array by one<br>
+- Find the missing number in an array of 1 to n<br>
+- Find duplicates in an array<br>
+- Kadane’s Algorithm (Maximum Subarray Sum)<br>
+- Left rotate array by D places<br>
+- Rotate array by K using reversal algorithm<br>
+- Leaders in an array<br>
+- Minimum number of jumps to reach the end<br>
+- Find the equilibrium point (prefix sum approach)<br>
+- Merge two sorted arrays without extra space<br>
+- Subarray with given sum (Sliding window)<br>
+- Smallest subarray with sum greater than X<br>
+- Count frequency of elements in an array<br>
+- Rearrange array in alternating positive and negative numbers<br>
 
 ✅ II. Strings – 10 Questions
-Reverse a string (in-place)<br>
-Check if string is a palindrome<br>
-Remove duplicates from a string<br>
-Find the first non-repeating character<br>
-Implement strstr (substring match)<br>
-Check for anagram<br>
-Count and remove vowels<br>
-Longest common prefix<br>
-Check if two strings are rotations of each other<br>
-Check balanced parentheses<br>
+- Reverse a string (in-place)<br>
+- Check if string is a palindrome<br>
+- Remove duplicates from a string<br>
+- Find the first non-repeating character<br>
+- Implement strstr (substring match)<br>
+- Check for anagram<br>
+- Count and remove vowels<br>
+- Longest common prefix<br>
+- Check if two strings are rotations of each other<br>
+- Check balanced parentheses<br>
 
 ✅ III. Searching – 10 Questions
 Linear search<br>

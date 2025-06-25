@@ -136,3 +136,6 @@ I. Arrays – 20 Questions
 - Check if a tree is BST<br>
 - Kth smallest/largest in BST<br>
 - Inorder successor/predecessor in BST<br>
+
+
+Gen Ai Nvidia Certificate : https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/?ncid=ref-inpa-200949
